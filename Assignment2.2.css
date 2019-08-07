@@ -1,0 +1,102 @@
+.navbar {
+    list-style-type: none;
+    background-color: midnightblue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+.nav-li {
+    display: inline;
+    font-size: 24px;
+    padding: 0px 20px;
+}
+
+.welcome-section {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSponXQiRwH6ngGsc0uH6DTZ4rCq01s2BGWgUd8yRQCC3GUu0C9");
+    background-size: 100%;
+    padding: 50px;
+    text-align: center;
+    font-family: verdana;
+    color: white;
+    font-size: 30px;
+}
+
+
+.welcome {
+    color: white;
+    font-size: 50px;
+    padding: 80px 0px 80px 0px;
+    text-align: center;
+    font-family: arial;
+    text-align: center;
+}
+
+.white {
+
+    color: white;
+}
+
+.aboutme {
+    background-color: #cccccc;
+    text-align: center;
+    padding-top: 20px;
+    font-family: verdana;
+}
+
+.image {
+    border-radius: 50%;
+    border: 1px solid black;
+
+
+}
+
+.aboutmeline {
+    font-size: 42px;
+    padding-bottom: 30px;
+}
+
+.about-img {
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.explore {
+    font-size: 30px;
+    color: black;
+    text-align: center;
+    list-style-type: none;
+}
+
+.myhomes {
+    background-color: grey;
+    font-size: 30px;
+    padding-top: 100px;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.myhomesimg1 {
+    width: 20%;
+    text-align: left;
+    border: 2px solid black;
+    margin-right: 100px;
+}
+
+.myhomesimg2 {
+    width: 20%;
+    text-align: center;
+    border: 2px solid black;
+}
+
+.myhomesimg3 {
+    width: 20%;
+    text-align: right;
+    border: 2px solid black;
+    margin-left: 100px;
+}
+
+.contactme {
+    text-align: center;
+
+}
