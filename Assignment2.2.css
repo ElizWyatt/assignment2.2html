@@ -12,6 +12,11 @@
     padding: 0px 20px;
 }
 
+.nav-a {
+    color: white;
+    text-decoration: none;
+}
+
 .welcome-section {
     background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSponXQiRwH6ngGsc0uH6DTZ4rCq01s2BGWgUd8yRQCC3GUu0C9");
     background-size: 100%;
@@ -40,8 +45,8 @@
 .aboutme {
     background-color: #cccccc;
     text-align: center;
-    padding-top: 20px;
     font-family: verdana;
+    padding: 50px 0px;
 }
 
 .image {
@@ -66,14 +71,14 @@
     color: black;
     text-align: center;
     list-style-type: none;
+    padding: 50px 0px;
 }
 
 .myhomes {
     background-color: grey;
     font-size: 30px;
-    padding-top: 100px;
     text-align: center;
-    padding-bottom: 30px;
+    padding: 50px 0px;
 }
 
 .myhomesimg1 {
@@ -98,5 +103,5 @@
 
 .contactme {
     text-align: center;
-
+    padding: 50px 0px;
 }
